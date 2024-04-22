@@ -1,3 +1,4 @@
 printf("a.txt");
 
 add new line
+new edit c6
